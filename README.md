@@ -18,4 +18,11 @@
 - 可插件化构建应用，提高复用率
 - 源码及教程：https://github.com/nihaohebin/CordovaPluginDevelopment_Android
 
-### 
+### 手机摄像头，IP摄像头（海康为例），USB摄像头（罗技为例）
+#### 一个基于深度学习CNN卷积神经网络的在线人脸识别。深入了解各类摄像头研发，如何将YUV数据转成RGB565再转Bitmap位图，并涉及NDK相关开发，JNI接口编写与调用等。
+- 可实时完成人脸识别
+- 可实时监测人脸并通过抠图和压缩在性能上优化
+- 手机摄像头源码： https://github.com/nihaohebin/FaceDetect_Thinkjoy
+- IP摄像头源码：https://github.com/nihaohebin/IPCamera
+- USB摄像头源码：https://github.com/nihaohebin/usbCamera
+
