@@ -43,8 +43,13 @@
  - 支持下载管理
  - 支持上传管理
  - 源码：https://github.com/nihaohebin/MyOkhttp
+ 
+### 六、DesignMode
+#### 常用android开发设计模型学习
+ - 有详细源码样例
+ - 源码：https://github.com/nihaohebin/designModel
 
-### 六、常用开发框架
+### 常用开发框架
 #### 1、 fastjson/gson
 ```
    常用于 json 数据解析，可结合AndroidStudio GsonFormat插件快速解析生成bean容器
