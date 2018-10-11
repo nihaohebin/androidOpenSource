@@ -19,20 +19,20 @@
 - 可插件化构建应用，提高复用率
 - 源码及教程：https://github.com/nihaohebin/CordovaPluginDevelopment_Android
 
-### 三、手机摄像头，IP摄像头（海康为例），USB摄像头（罗技为例）开发
+### 三、AgentWeb，H5与原生混合开发
+#### AgentWeb 是一个基于的 Android WebView ，极度容易使用以及功能强大的库，提供了 Android WebView 一系列的问题解决方案 ，并且轻量和极度灵活.
+- 开发使用简单
+- 支持JS与Native Java通信
+- 支持X5接入
+- 源码：https://github.com/nihaohebin/MyAgentWebview
+
+### 四、手机摄像头，IP摄像头（海康为例），USB摄像头（罗技为例）开发
 #### 一个基于深度学习CNN卷积神经网络的在线人脸识别。深入了解各类摄像头研发，如何将YUV数据转成RGB565再转Bitmap位图，并涉及NDK相关开发，JNI接口编写与调用等。
 - 可实时完成人脸识别
 - 可实时监测人脸并通过抠图和压缩在性能上优化
 - 手机摄像头源码： https://github.com/nihaohebin/FaceDetect_Thinkjoy
 - IP摄像头源码：https://github.com/nihaohebin/IPCamera
 - USB摄像头源码：https://github.com/nihaohebin/usbCamera
-
-### 四、AgentWeb，H5与原生混合开发
-#### AgentWeb 是一个基于的 Android WebView ，极度容易使用以及功能强大的库，提供了 Android WebView 一系列的问题解决方案 ，并且轻量和极度灵活.
-- 开发使用简单
-- 支持JS与Native Java通信
-- 支持X5接入
-- 源码：https://github.com/nihaohebin/MyAgentWebview
 
 ### 五、OkGo
 #### 将Okhttp封装好的请求框架，包括缓存机制，doGet,doPost，上传下载等功能封装。
@@ -50,28 +50,13 @@
  - 源码：https://github.com/nihaohebin/designModel
 
 ### 常用开发框架
-#### 1、 fastjson/gson
-```
-   常用于 json 数据解析，可结合AndroidStudio GsonFormat插件快速解析生成bean容器
- ```
-####  2、Butterknife
-```
-   常用于 UI注解，可结合AS Butterknife zelezny插件可快速开发控件注解
-```
-####  3、XmlPullParser/dom4j
-```
-   常用于 xml文件解析，其中dom4j为java常用解析器，XmlPullParser为android常用xml解析器
- ```
-####  4、Glide/Universal-Image-Loader
-```
-   常用于图片加载，缓存。
-```
-####  5、LeakCanary
-```
-   常用于检测内存泄漏，优化应用内存性能。
-```
-
-
+|   |   |
+| :------------ | :------------ |
+|  fastjson/gson  | 常用于 json 数据解析，可结合AndroidStudio GsonFormat插件快速解析生成bean容器  |
+| Butterknife  |  常用于 UI注解，可结合AS Butterknife zelezny插件可快速开发控件注解  |
+|  XmlPullParser/dom4j |  常用于 xml文件解析，其中dom4j为java常用解析器，XmlPullParser为android常用xml解析器  |
+| Glide/Universal-Image-Loader  |   常用于图片加载，缓存。 |
+| LeakCanary | 常用于检测内存泄漏，优化应用内存性能。|
 
 
 
