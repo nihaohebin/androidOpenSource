@@ -58,6 +58,7 @@
 | [Glide](https://github.com/bumptech/glide) / [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)  |   常用于图片加载，缓存。[封装](https://blog.csdn.net/bighuan/article/details/58992524) |
 | [LeakCanary](https://github.com/square/leakcanary) | 常用于检测内存泄漏，优化应用内存性能。|
 | [logger](https://github.com/orhanobut/logger) | 日志管理器|
+| [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|上拉刷新，下拉加载|
 
 
 
