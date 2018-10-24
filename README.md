@@ -52,11 +52,14 @@
 ### 常用开发框架
 |   |   |
 | :------------ | :------------ |
-|  fastjson/gson  | 常用于 json 数据解析，可结合AndroidStudio GsonFormat插件快速解析生成bean容器  |
-| Butterknife  |  常用于 UI注解，可结合AS Butterknife zelezny插件可快速开发控件注解  |
-|  XmlPullParser/dom4j |  常用于 xml文件解析，其中dom4j为java常用解析器，XmlPullParser为android常用xml解析器  |
-| Glide/Universal-Image-Loader  |   常用于图片加载，缓存。 |
-| LeakCanary | 常用于检测内存泄漏，优化应用内存性能。|
+|  [fastjson](https://github.com/alibaba/fastjson) / [gson](https://github.com/google/gson)  | 常用于 json 数据解析，可结合AndroidStudio GsonFormat插件快速解析生成bean容器  | 
+| [Butterknife](https://github.com/JakeWharton/butterknife)  |  常用于 UI注解，可结合AS Butterknife zelezny插件可快速开发控件注解  |
+|  XmlPullParser/[dom4j](https://dom4j.github.io/) |  常用于 xml文件解析，其中dom4j为java常用解析器，XmlPullParser为androidSDK自带常用xml解析器  |
+| [Glide](https://github.com/bumptech/glide) / [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)  |   常用于图片加载，缓存。[封装](https://blog.csdn.net/bighuan/article/details/58992524) |
+| [LeakCanary](https://github.com/square/leakcanary) | 常用于检测内存泄漏，优化应用内存性能。|
+| [logger](https://github.com/orhanobut/logger) | 日志管理器|
+
+
 
 
 
