@@ -59,6 +59,7 @@
 | [LeakCanary](https://github.com/square/leakcanary) | 常用于检测内存泄漏，优化应用内存性能。|
 | [logger](https://github.com/orhanobut/logger) | 日志管理器|
 | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|上拉刷新，下拉加载|
+| [Dexter](https://github.com/Karumi/Dexter)| 权限管理工具|
 
 
 
