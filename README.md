@@ -60,6 +60,7 @@
 | [logger](https://github.com/orhanobut/logger) | 日志管理器|
 | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|上拉刷新，下拉加载|
 | [permissionUtil](https://github.com/nihaohebin/PremissonUtil/tree/master)| 权限管理工具|
+| [banner](https://github.com/youth5201314/banner)| 广告页轮播 |
 
 
 
