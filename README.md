@@ -60,12 +60,23 @@
 | [logger](https://github.com/orhanobut/logger) | 日志管理器|
 | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|上拉刷新，下拉加载|
 | [banner](https://github.com/youth5201314/banner)| 广告页轮播 |
+<<<<<<< HEAD
 | [android_zxing](https://github.com/yuzhiqiang1993/zxing)| android二维码扫描 |
 | [permission](https://github.com/yanzhenjie/AndPermission)|权限管理工具 |
 | [CircleImageView](https://github.com/hdodenhof/CircleImageView)|圆形图片控件 |
 | [PictureSelect](https://github.com/LuckSiege/PictureSelector)|图片选择器 |
 | [PopWindow](https://github.com/HMY314/PopWindow)|底部弹出选择控件 |
 | [PullZoomView](https://github.com/Frank-Zhu/PullZoomView)|头部背景动画 |
+=======
+| [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)| 视屏播放框架|
+
+
+
+
+
+
+
+>>>>>>> bb1b80cf07589310b8862d9e065eb1e1e1a2997f
 
 
 
