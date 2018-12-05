@@ -59,15 +59,13 @@
 | [LeakCanary](https://github.com/square/leakcanary) | 常用于检测内存泄漏，优化应用内存性能。|
 | [logger](https://github.com/orhanobut/logger) | 日志管理器|
 | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|上拉刷新，下拉加载|
-| [permissionUtil](https://github.com/nihaohebin/PremissonUtil/tree/master)| 权限管理工具|
 | [banner](https://github.com/youth5201314/banner)| 广告页轮播 |
-
-
-
-
-
-
-
+| [android_zxing](https://github.com/yuzhiqiang1993/zxing)| android二维码扫描 |
+| [permission](https://github.com/yanzhenjie/AndPermission)|权限管理工具 |
+| [CircleImageView](https://github.com/hdodenhof/CircleImageView)|圆形图片控件 |
+| [PictureSelect](https://github.com/LuckSiege/PictureSelector)|图片选择器 |
+| [PopWindow](https://github.com/HMY314/PopWindow)|底部弹出选择控件 |
+| [PullZoomView](https://github.com/Frank-Zhu/PullZoomView)|头部背景动画 |
 
 
 
