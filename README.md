@@ -66,7 +66,7 @@
 | [PictureSelect](https://github.com/LuckSiege/PictureSelector)|图片选择器 |
 | [PopWindow](https://github.com/HMY314/PopWindow)|底部弹出选择控件 |
 | [PullZoomView](https://github.com/Frank-Zhu/PullZoomView)|头部背景动画 |
-
+| [WheelView](https://github.com/Bigkoo/Android-PickerView)|滚轮控件 |
 
 
 
