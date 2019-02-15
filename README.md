@@ -68,7 +68,7 @@
 | [PullZoomView](https://github.com/Frank-Zhu/PullZoomView)|头部背景动画 |
 | [WheelView](https://github.com/Bigkoo/Android-PickerView)|滚轮控件 |
 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/README-CN.md)|android常用工具类 |
-
+| [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)|android视频播放 |
 
 
 
