@@ -69,7 +69,7 @@
 | [WheelView](https://github.com/Bigkoo/Android-PickerView)|滚轮控件 |
 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/README-CN.md)|android常用工具类 |
 | [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)|android视频播放 |
-
+| [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)|图片浏览器 |
 
 
 
