@@ -71,6 +71,6 @@
 | [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)|android视频播放 |
 | [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)|图片浏览器 |
 | [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)|视频弹幕框架 |
-
+| [apkupdate](https://github.com/kelinZhou/ApkUpdater)|应用内升级工具 |
 
 
