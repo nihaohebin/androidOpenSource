@@ -73,4 +73,4 @@
 | [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)|视频弹幕框架 |
 | [apkupdate](https://github.com/kelinZhou/ApkUpdater)|应用内升级工具 |
 | [loadingview](https://github.com/xiaokun19931126/LoadingView)|请求耗时加载loading动画 |
-
+| [ProgressView](https://github.com/Moosphan/Material-ProgressView)|进度条 |
