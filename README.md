@@ -7,7 +7,7 @@
 - 支持栈层查询
 - 支持外部其他框架接入
 - 支持 Material Design，包括DrawerLayout、NavigationView、ToolBar、RecycleView等。
-- 源码：https://github.com/nihaohebin/MyFragment
+- 源码：https://github.com/YoKeyword/Fragmentation
 
 ### 二、基于Apach Cordova 的Hybrid 应用开发框架
 #### 一种前后端分离的开发框架。可由H5,JS,CSS组成界面应用界面，由原生端提供前端接口完成对手机设备和其他第三方框架集成，例如：前端调起手机摄像头，或者前端调起手机支付宝或微信支付等
@@ -24,7 +24,7 @@
 - 开发使用简单
 - 支持JS与Native Java通信
 - 支持X5接入
-- 源码：https://github.com/nihaohebin/MyAgentWebview
+- 源码：https://github.com/Justson/AgentWeb
 
 ### 四、手机摄像头，IP摄像头（海康为例），USB摄像头（罗技为例）开发
 #### 一个基于深度学习CNN卷积神经网络的在线人脸识别。深入了解各类摄像头研发，如何将YUV数据转成RGB565再转Bitmap位图，并涉及NDK相关开发，JNI接口编写与调用等。
@@ -42,7 +42,7 @@
  - 支持自定义缓存策略
  - 支持下载管理
  - 支持上传管理
- - 源码：https://github.com/nihaohebin/MyOkhttp
+ - 源码：https://github.com/jeasonlzy/okhttp-OkGo
  
 ### 六、DesignMode
 #### 常用android开发设计模型学习
