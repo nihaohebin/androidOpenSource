@@ -74,3 +74,5 @@
 | [apkupdate](https://github.com/azhon/AppUpdate)|应用内升级工具 |
 | [loadingview](https://github.com/xiaokun19931126/LoadingView)|请求耗时加载loading动画 |
 | [ProgressView](https://github.com/Moosphan/Material-ProgressView)|进度条 |
+| [Lighter](https://github.com/samlss/Lighter)|新手引导界面工具 |
+
