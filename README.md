@@ -83,4 +83,5 @@
 | [logger](https://github.com/orhanobut/logger)|日志工具|
 | [materialratingbar](https://github.com/zhanghai/MaterialRatingBar)|五星好评控件|
 | [count-down-timer](https://github.com/dengyuhan/CountDownTimerSupport)|倒计时工具|
+| [HokoBlur](https://github.com/HokoFly/HokoBlur)|高斯模糊工具|
 
