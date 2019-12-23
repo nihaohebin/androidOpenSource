@@ -52,15 +52,15 @@
 ### 常用开发框架
 |   |   |
 | :------------ | :------------ |
-|  [fastjson](https://github.com/alibaba/fastjson) / [gson](https://github.com/google/gson)  | 常用于 json 数据解析，可结合AndroidStudio GsonFormat插件快速解析生成bean容器  | 
-| [Butterknife](https://github.com/JakeWharton/butterknife)  |  常用于 UI注解，可结合AS Butterknife zelezny插件可快速开发控件注解  |
-|  XmlPullParser/[dom4j](https://dom4j.github.io/) |  常用于 xml文件解析，其中dom4j为java常用解析器，XmlPullParser为androidSDK自带常用xml解析器  |
-| [Glide](https://github.com/bumptech/glide) / [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)  |   常用于图片加载，缓存。[封装](https://blog.csdn.net/bighuan/article/details/58992524) |
-| [LeakCanary](https://github.com/square/leakcanary) | 常用于检测内存泄漏，优化应用内存性能。|
+|  [fastjson](https://github.com/alibaba/fastjson) / [gson](https://github.com/google/gson)  | json 数据解析，可结合AndroidStudio GsonFormat插件快速解析生成bean容器  | 
+| [Butterknife](https://github.com/JakeWharton/butterknife)  |  UI注解，可结合AS Butterknife zelezny插件可快速开发控件注解  |
+|  XmlPullParser/[dom4j](https://dom4j.github.io/) |  xml文件解析，其中dom4j为java常用解析器，XmlPullParser为androidSDK自带常用xml解析器  |
+| [Glide](https://github.com/bumptech/glide) / [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)  |  图片加载，缓存。[封装](https://blog.csdn.net/bighuan/article/details/58992524) |
+| [LeakCanary](https://github.com/square/leakcanary) |检测内存泄漏，优化应用内存性能。|
 | [logger](https://github.com/orhanobut/logger) | 日志管理器|
 | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|上拉刷新，下拉加载|
 | [banner](https://github.com/youth5201314/banner)| 广告页轮播 |
-| [android_zxing](https://github.com/yuzhiqiang1993/zxing)| android二维码扫描 |
+| [android_zxing](https://github.com/yuzhiqiang1993/zxing)| android二维码扫描工具 |
 | [permission](https://github.com/yanzhenjie/AndPermission)|权限管理工具 |
 | [CircleImageView](https://github.com/hdodenhof/CircleImageView)|圆形图片控件 |
 | [PictureSelect](https://github.com/LuckSiege/PictureSelector)|图片选择器 |
@@ -88,4 +88,5 @@
 | [treeView2](https://github.com/shineM/TreeView)|树形控件2|
 | [xpop](https://github.com/li-xiaojun/XPopup)|弹窗控件|
 | [Linkage-RecyclerView](https://github.com/KunMinX/Linkage-RecyclerView?utm_source=gold_browser_extension)|外卖菜单列表|
-
+| [QMUI_Android](https://github.com/Tencent/QMUI_Android)|腾讯UI控件集合|
+| [CityProject](https://github.com/Tencent/QMUI_Android)|城市选择列表，带定位|
