@@ -62,6 +62,7 @@
 | [Glide](https://github.com/bumptech/glide) / [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)  |  图片加载，缓存。[封装](https://blog.csdn.net/bighuan/article/details/58992524) |
 | [glide-transformations](https://github.com/wasabeef/glide-transformations) |图片加载处理|
 | [LeakCanary](https://github.com/square/leakcanary) |检测内存泄漏，优化应用内存性能。|
+| [TaskScheduler](https://github.com/SilenceDut/TaskScheduler) |android线程池管理|
 | [logger](https://github.com/orhanobut/logger) | 日志管理器|
 | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|上拉刷新，下拉加载|
 | [banner](https://github.com/youth5201314/banner)| 广告页轮播 |
