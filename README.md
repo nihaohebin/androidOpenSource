@@ -67,6 +67,11 @@
  - 很好的封装了一套视频播放器的API
  - 支持多种视频处理
  - 源码文档：https://github.com/CarGuo/GSYVideoPlayer
+ 
+  ### 九、objectbox
+ #### android本地数据库
+ - greenrobot组织开源的优秀数据库，基于之前的greenDAO而来。
+ - 源码文档：https://github.com/objectbox/objectbox-java
 
 ### 常用开发框架
 |   |   |
@@ -94,7 +99,6 @@
 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md)|android常用工具类 |
 | [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)|视频弹幕框架 |
 | [apkupdate](https://github.com/azhon/AppUpdate)|应用内升级工具 |
-| [loadingview](https://github.com/xiaokun19931126/LoadingView)|请求耗时加载loading动画 |
 | [ProgressView](https://github.com/Moosphan/Material-ProgressView)|进度条 |
 | [Lighter](https://github.com/samlss/Lighter)|新手引导界面工具 |
 | [ProgressView](https://github.com/Moosphan/Material-ProgressView)|进度条工具|
@@ -111,7 +115,6 @@
 | [tinker](https://github.com/Tencent/tinker)|腾讯热更新|
 | [vlayout](https://github.com/alibaba/vlayout)|阿里复杂列表控件|
 | [MinaManager](https://github.com/jiezongnewstar/MinaManager)|mina简单长连接|
-| [objectbox](https://github.com/objectbox/objectbox-java)|android本地数据库|
 | [okdownload](https://github.com/lingochamp/okdownload)|离线视频下载引擎|
 | [skin](https://github.com/ximsfei/Android-skin-support)|app换肤框架|
 | [EventBus](https://github.com/greenrobot/EventBus)|观察者模式事件总线|
