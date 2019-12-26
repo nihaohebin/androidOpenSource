@@ -1,3 +1,4 @@
+## 致力于总结各类优秀的开源UI控件，功能框架，快速开发和建立APP架构。
 ### 一、Native应用开发框架
 #### 一种轻量级的应用开发方案，由一个Activity与多个Fragment的开发框架。
 
@@ -27,7 +28,7 @@
 - 源码：https://github.com/Justson/AgentWeb
 
 ### 四、手机摄像头，IP摄像头（海康为例），USB摄像头（罗技为例）开发
-#### 一个基于深度学习CNN卷积神经网络的在线人脸识别。深入了解各类摄像头研发，如何将YUV数据转成RGB565再转Bitmap位图，并涉及NDK相关开发，JNI接口编写与调用等。
+#### 一个基于深度学习CNN卷积神经网络的在线人脸识别。深入了解各类摄像头研发，如何将YUV数据转成RGB565再转Bitmap位图，并涉及NDK相关开发，JNI接口编写与调用等（公司已倒闭，人脸检测是本地的）。
 - 可实时完成人脸识别
 - 可实时监测人脸并通过抠图和压缩在性能上优化
 - 手机摄像头源码： https://github.com/nihaohebin/FaceDetect_Thinkjoy
@@ -43,15 +44,29 @@
  - 支持下载管理
  - 支持上传管理
  - 源码：https://github.com/jeasonlzy/okhttp-OkGo
+
+### 五、Rxjava2+RxAndroid+Retrofit2
+#### 基于Okhttp的链式请求框架。并用当前比较流行的resful风格。
+ - 使用方便，可按要求配置开发
+ - 对retrofit进行了封装
+ - 支持下载管理
+ - 支持上传管理
+ - 源码：https://github.com/lygttpod/RxHttpUtils
  
 ### 六、DesignMode
 #### 常用android开发设计模型学习
  - 有详细源码样例
  - 源码：https://github.com/youlookwhat/DesignPattern
- 
+
  ### 七、AndroidUT
  #### android单元测试
  - 源码文档：https://github.com/simplezhli/AndroidUT/tree/master
+
+ ### 八、GSYVideoPlayer
+ #### 视频播放器，支持ijk内核和exo内核切换，建议使用exo稳定，轻量，毕竟是google亲儿子
+ - 很好的封装了一套视频播放器的API
+ - 支持多种视频处理
+ - 源码文档：https://github.com/CarGuo/GSYVideoPlayer
 
 ### 常用开发框架
 |   |   |
@@ -74,7 +89,6 @@
 | [PullZoomView](https://github.com/Frank-Zhu/PullZoomView)|头部背景动画 |
 | [WheelView](https://github.com/Bigkoo/Android-PickerView)|滚轮控件 |
 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md)|android常用工具类 |
-| [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)|android视频播放 |
 | [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)|图片浏览器 |
 | [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)|视频弹幕框架 |
 | [apkupdate](https://github.com/azhon/AppUpdate)|应用内升级工具 |
@@ -84,8 +98,6 @@
 | [EasyPhoto](https://github.com/HuanTanSheng/EasyPhotos)|图片选择工具 |
 | [ProgressView](https://github.com/Moosphan/Material-ProgressView)|进度条工具|
 | [StateView](https://github.com/nukc/StateView)|状态界面工具|
-| [NetworkState](https://github.com/allenlzhang/NetworkState)|网络监控工具 |
-| [Rxjava2+RxAndroid+Retrofit2](https://github.com/lygttpod/RxHttpUtils)|网络请求工具封装|
 | [logger](https://github.com/orhanobut/logger)|日志工具|
 | [materialratingbar](https://github.com/zhanghai/MaterialRatingBar)|五星好评控件|
 | [count-down-timer](https://github.com/dengyuhan/CountDownTimerSupport)|倒计时工具|
