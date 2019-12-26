@@ -86,6 +86,7 @@
 | [logger](https://github.com/orhanobut/logger) | 日志管理器|
 | [QMUI_Android](https://github.com/Tencent/QMUI_Android)|腾讯UI控件集合|
 | [XUI](https://github.com/xuexiangjys/XUI)|UI控件集合|
+| [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout|刷新加载控件|
 | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|上拉刷新，下拉加载|
 | [banner](https://github.com/youth5201314/banner)| 广告页轮播 |
 | [android_zxing](https://github.com/yuzhiqiang1993/zxing)| android二维码扫描工具 |
