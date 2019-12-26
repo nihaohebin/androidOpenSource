@@ -1,4 +1,4 @@
-## 致力于总结各类优秀的开源UI控件，功能框架，快速开发和建立APP架构。
+## 致力于总结各类优秀的开源UI控件，功能框架，快速开发和建立应用架构（已亲测）
 ### 一、Native应用开发框架
 #### 一种轻量级的应用开发方案，由一个Activity与多个Fragment的开发框架。
 
@@ -79,26 +79,26 @@
 | [LeakCanary](https://github.com/square/leakcanary) |检测内存泄漏，优化应用内存性能。|
 | [TaskScheduler](https://github.com/SilenceDut/TaskScheduler) |android线程池管理|
 | [logger](https://github.com/orhanobut/logger) | 日志管理器|
+| [QMUI_Android](https://github.com/Tencent/QMUI_Android)|腾讯UI控件集合|
+| [XUI](https://github.com/xuexiangjys/XUI)|UI控件集合|
 | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|上拉刷新，下拉加载|
 | [banner](https://github.com/youth5201314/banner)| 广告页轮播 |
 | [android_zxing](https://github.com/yuzhiqiang1993/zxing)| android二维码扫描工具 |
 | [permission](https://github.com/yanzhenjie/AndPermission)|权限管理工具 |
 | [CircleImageView](https://github.com/hdodenhof/CircleImageView)|圆形图片控件 |
 | [PictureSelect](https://github.com/LuckSiege/PictureSelector)|图片选择器 |
+| [EasyPhoto](https://github.com/HuanTanSheng/EasyPhotos)|图片选择工具 |
+| [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)|大图片浏览器 |
 | [PopWindow](https://github.com/HMY314/PopWindow)|底部弹出选择控件 |
-| [PullZoomView](https://github.com/Frank-Zhu/PullZoomView)|头部背景动画 |
 | [WheelView](https://github.com/Bigkoo/Android-PickerView)|滚轮控件 |
 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md)|android常用工具类 |
-| [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)|图片浏览器 |
 | [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)|视频弹幕框架 |
 | [apkupdate](https://github.com/azhon/AppUpdate)|应用内升级工具 |
 | [loadingview](https://github.com/xiaokun19931126/LoadingView)|请求耗时加载loading动画 |
 | [ProgressView](https://github.com/Moosphan/Material-ProgressView)|进度条 |
 | [Lighter](https://github.com/samlss/Lighter)|新手引导界面工具 |
-| [EasyPhoto](https://github.com/HuanTanSheng/EasyPhotos)|图片选择工具 |
 | [ProgressView](https://github.com/Moosphan/Material-ProgressView)|进度条工具|
 | [StateView](https://github.com/nukc/StateView)|状态界面工具|
-| [logger](https://github.com/orhanobut/logger)|日志工具|
 | [materialratingbar](https://github.com/zhanghai/MaterialRatingBar)|五星好评控件|
 | [count-down-timer](https://github.com/dengyuhan/CountDownTimerSupport)|倒计时工具|
 | [HokoBlur](https://github.com/HokoFly/HokoBlur)|高斯模糊工具|
@@ -106,8 +106,6 @@
 | [treeView2](https://github.com/shineM/TreeView)|树形控件2|
 | [xpop](https://github.com/li-xiaojun/XPopup)|弹窗控件|
 | [Linkage-RecyclerView](https://github.com/KunMinX/Linkage-RecyclerView?utm_source=gold_browser_extension)|外卖菜单列表|
-| [QMUI_Android](https://github.com/Tencent/QMUI_Android)|腾讯UI控件集合|
-| [XUI](https://github.com/xuexiangjys/XUI)|UI控件集合|
 | [CityProject](https://github.com/Tencent/QMUI_Android)|城市选择列表，带定位|
 | [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)|导航栏控件|
 | [tinker](https://github.com/Tencent/tinker)|腾讯热更新|
