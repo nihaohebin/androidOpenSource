@@ -72,8 +72,13 @@
 #### 常用android开发设计模型学习
  - 有详细源码样例
  - 源码：https://github.com/youlookwhat/DesignPattern
+ 
+### 十一、FastBle
+#### android低功耗蓝牙开发
+ - 有详细源码样例
+ - 源码：https://github.com/Jasonchenlijian/FastBle
 
-### 十一、其他常用开发
+### 十二、其他常用开发
 |   |   |
 | :------------ | :------------ |
 |  [fastjson](https://github.com/alibaba/fastjson) / [gson](https://github.com/google/gson)  | json 数据解析，可结合AndroidStudio GsonFormat插件快速解析生成bean容器  | 
@@ -92,6 +97,7 @@
 | [banner](https://github.com/youth5201314/banner)| 广告页轮播 |
 | [android_zxing](https://github.com/yuzhiqiang1993/zxing)| android二维码扫描工具 |
 | [permission](https://github.com/yanzhenjie/AndPermission)|权限管理工具 |
+| [easypermissions](https://github.com/googlesamples/easypermissions)|权限管理工具 |
 | [CircleImageView](https://github.com/hdodenhof/CircleImageView)|圆形图片控件 |
 | [PictureSelect](https://github.com/LuckSiege/PictureSelector)|图片选择器 |
 | [EasyPhoto](https://github.com/HuanTanSheng/EasyPhotos)|图片选择工具 |
@@ -120,8 +126,10 @@
 | [MinaManager](https://github.com/jiezongnewstar/MinaManager)|mina简单长连接|
 | [okdownload](https://github.com/lingochamp/okdownload)|离线视频下载引擎|
 | [skin](https://github.com/ximsfei/Android-skin-support)|app换肤框架|
+| [CalendarView](https://github.com/huanghaibin-dev/CalendarView)|日历工具|
 | [EventBus](https://github.com/greenrobot/EventBus)|观察者模式事件总线|
 | [Search_Layout](https://github.com/Carson-Ho/Search_Layout)|搜索导航栏工具|
+| [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)|沉浸式状态栏和沉浸式导航栏管理|
 
 # 进阶学习的开源完整项目
 ###  1、组件化综合案例，包含微信新闻，头条视频，美女图片，百度音乐，干活集中营，玩Android，豆瓣读书电影，知乎日报等等模块。架构模式：组件化+MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly。融合开发中需要的各种小案例！
@@ -135,6 +143,9 @@
 
 ### 4、Material Design学习
 #### 源码：https://github.com/rey5137/material
+
+### 5、云阅：一款基于网易云音乐UI，使用玩安卓、Gank.Io及时光网api开发的符合Google Material Design的Android客户端。项目采取的是MVVM-DataBinding架构开发，主要包括：玩安卓区、干货区和电影区三个子模块。
+#### 源码：https://github.com/youlookwhat/CloudReader
 
 
 
