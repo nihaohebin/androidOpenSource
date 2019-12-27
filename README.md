@@ -1,4 +1,4 @@
-## 致力于总结各类优秀的开源UI控件，功能框架，快速开发和建立应用架构（已亲测）
+## 致力于集结各类优秀的开源UI控件，功能框架，快速开发和建立应用架构（已亲测）
 ### 一、Native应用开发框架
 #### 一种轻量级的应用开发方案，由一个Activity与多个Fragment的开发框架。
 
@@ -115,6 +115,7 @@
 | [CityProject](https://github.com/Tencent/QMUI_Android)|城市选择列表，带定位|
 | [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)|导航栏控件|
 | [tinker](https://github.com/Tencent/tinker)|腾讯热更新|
+| [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)|androidView动画|
 | [vlayout](https://github.com/alibaba/vlayout)|阿里复杂列表控件|
 | [MinaManager](https://github.com/jiezongnewstar/MinaManager)|mina简单长连接|
 | [okdownload](https://github.com/lingochamp/okdownload)|离线视频下载引擎|
