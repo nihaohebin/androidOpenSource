@@ -45,18 +45,13 @@
  - 支持上传管理
  - 源码：https://github.com/jeasonlzy/okhttp-OkGo
 
-### 五、Rxjava2+RxAndroid+Retrofit2
+### 六、Rxjava2+RxAndroid+Retrofit2
 #### 基于Okhttp的链式请求框架。并用当前比较流行的resful风格。
  - 使用方便，可按要求配置开发
  - 对retrofit进行了封装
  - 支持下载管理
  - 支持上传管理
  - 源码：https://github.com/lygttpod/RxHttpUtils
- 
-### 六、DesignMode
-#### 常用android开发设计模型学习
- - 有详细源码样例
- - 源码：https://github.com/youlookwhat/DesignPattern
 
  ### 七、AndroidUT
  #### android单元测试
@@ -72,8 +67,13 @@
  #### android本地数据库
  - greenrobot组织开源的优秀数据库，基于之前的greenDAO而来。
  - 源码文档：https://github.com/objectbox/objectbox-java
+  
+### 十、DesignMode
+#### 常用android开发设计模型学习
+ - 有详细源码样例
+ - 源码：https://github.com/youlookwhat/DesignPattern
 
-### 十、其他常用开发
+### 十一、其他常用开发
 |   |   |
 | :------------ | :------------ |
 |  [fastjson](https://github.com/alibaba/fastjson) / [gson](https://github.com/google/gson)  | json 数据解析，可结合AndroidStudio GsonFormat插件快速解析生成bean容器  | 
@@ -123,7 +123,18 @@
 | [EventBus](https://github.com/greenrobot/EventBus)|观察者模式事件总线|
 | [Search_Layout](https://github.com/Carson-Ho/Search_Layout)|搜索导航栏工具|
 
+# 进阶学习的开源完整项目
+###  1、组件化综合案例，包含微信新闻，头条视频，美女图片，百度音乐，干活集中营，玩Android，豆瓣读书电影，知乎日报等等模块。架构模式：组件化+MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly。融合开发中需要的各种小案例！
+####  源码：https://github.com/yangchong211/LifeHelper
 
+### 2、简单便捷 快速开发Android项目，集合流行框架封装mvp + rxjava2 + retrofit2 + rxlifecycle3 + arouter...
+#### 源码：https://github.com/wobiancao/sugar
+
+### 3、基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。
+#### 源码：https://github.com/goldze/MVVMHabit
+
+### 4、Material Design学习
+#### 源码：https://github.com/rey5137/material
 
 
 
