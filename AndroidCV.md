@@ -1,8 +1,8 @@
 ## 个人信息
-<font face="黑体" size=4>**姓 名：贺 斌**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**性 别：男**</font>
-<font face="黑体" size=4>**电 话：136-3128-4436**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**出 生：1993.03**</font>
-<font face="黑体" size=4>** 邮 箱：13631284436@163.com**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**学 历：本 科**</font>
-<font face="黑体" size=4>**Github:[nihaohebin-androidOpenSource](https://github.com/nihaohebin/androidOpenSource)**  </font>
+- <font face="黑体" size=4>**姓 名：贺 斌**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;**性 别：男**</font>
+- <font face="黑体" size=4>**电 话：136-3128-4436**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**出 生：1993.03**</font>
+- <font face="黑体" size=4>**邮 箱：13631284436@163.com**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**学 历：本 科**</font>
+- <font face="黑体" size=4>**Github:[nihaohebin-androidOpenSource](https://github.com/nihaohebin/androidOpenSource)**  </font>
 
 ##  个人能力
 - <font size=3>3年以上的Android开发经验，有医疗，交通，人工智能相关行业工作经验。熟悉掌握MVC和MVP框架模式，熟悉掌握JAVA语言，有前端和NDK开发经验，有良好的markdown技术文档编写和英文技术文档阅读能力。</font>
