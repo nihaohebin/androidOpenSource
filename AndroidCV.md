@@ -24,7 +24,7 @@
 - <font size=3>**成功案例：**</font><font size=3>云装空间APP地址： [云装空间APP](http://www.yunrooms.cn/module-operation!executeOperation?componentCode=yz_s_login&windowCode=yz_login_main "云装空间APP")   &emsp;&emsp; 银弹谷APP地址：[ 银弹谷APP](http://www.yindangu.com/itop/mobile/download/downloadApp.html " 银弹谷APP")</font>
 - <font size=3>**项目相关：**</font><font size=3>同望科技股份有限公司珠海总部。2017-2018任Android研发工程师，负责1、Android端自动化打包平台服务端开发。2、cordova框架的Hybrid应用主体工程框架搭建。3、项目所需的cordova插件开发（支付，轨迹追踪，环信IM，友盟分享等）。
 “零代码开发软件工具”，使用V3开发工具通过拖拉UI控件及配置规则函数构建H5页面，并将页面部署到服务器，web端可直接预览，并将前端资源一键打包部署到android、IOS端，构建webAPP应用。</font>
-- <font size=3>**技术相关：**</font><font size=3>与组长IOS合作完成终端以及后台开发。阅读apache全英文cordova技术开源文档，并总结出一套Cordova插件开发教程。
+- <font size=3>**技术相关：**</font><font size=3>与组长IOS合作完成终端以及后台开发。阅读apache全英文cordova技术开源文档，并总结出一套Cordova插件开发[教程](https://github.com/nihaohebin/CordovaPluginDevelopment_Android)。
 1、	搭建Cordova框架和腾讯TBSX5Web内核作为核心的APP基础Android工程环境。
 2、打包后台FileIO处理，将相关前端资源按照相应规则安装到Android基础工程中，自动化生成gradle批处理打包脚本及执行,根据相应配置生成APP。并记录脚本执行打包日志。
 3、使用XmlPullParser解析器，seajs框架, bootstrap框架，编写相关规则的解析算法。将前端XML资源通过解析拼装成H5页面及相关JS代码，启动APP，拦截页面请求，优化磁盘缓存，图片缓存和Luban做图片高保真压缩。
@@ -33,7 +33,7 @@
 
 ------------
 
-- <font size=3>**项目名称：**</font><font size=3>人脸识别门禁系统（应用地址：AppDemo）</font>
+- <font size=3>**项目名称：**</font><font size=3>人脸识别门禁系统（应用地址：[AppDemo](https://github.com/nihaohebin/FaceDetect_Thinkjoy/tree/master/app/release)）</font>
 - <font size=3>**成功案例：**</font><font size=3>为广州十牛科技做了一套幼儿园门禁机，深圳海威达开关门闸机。</font>
 - <font size=3>**项目相关：**</font><font size=3>珠海习悦科技有限公司。2016-2017任android开发工程师。负责人脸识别产品设计，研发以及售后技术支持等。</font>
 <font size=3>基于Android系统和CNN卷积神经网络，通过Android手机摄像头或海康IP摄像头或罗技USB摄像头获取帧图，通过人脸检测算法和人脸识别算法进行判断，并通过蓝牙继电器通信模块控制电插锁开关门。并集成办公管理系统完成考勤统计，会议事务通知等。 </font>
@@ -45,7 +45,7 @@
 5、适配小宝机器人（奥比中光摄像头），调用奥比中光API接口，获取YUV数据帧图。</font>
 
 ------------
-- <font size=3>**项目名称：**</font><font size=3>珠海95128 (APP地址：珠海出租车)</font>
+- <font size=3>**项目名称：**</font><font size=3>珠海95128 (APP地址：[珠海出租车](http://zhushou.360.cn/detail/index/soft_id/3591537?recrefer=SE_D_%E7%8F%A0%E6%B5%B795128))</font>
 - <font size=3>**项目相关：**</font><font size=3>珠海习悦科技有限公司，2016-2017任android开发工程师。主要负责出租车司机端APP开发。</font>
 <font size=3>关于珠海出租车监管的类滴滴打车司机端。前端小程序为用户端叫车，司机端接单记录。有快车模块和顺风车模块。</font>
 - <font size=3>**技术相关：**</font><font size=3>独立完成。MVC工程模型。集成百度地图，语音，导航，定位，轨迹功能。集成OkGo网络请求框架。集成DrawerLayout和NavigationView完成侧滑Menu个人信息界面功能。SimpleRatingBar五星好评控件，SwipyRefreshListView订单记录列表，mina，slf4j做TCPService长链接，实时上传下发各量车子位置信息到后台，并共享查看友车位置和记录该车行程，监听系统广播NetworkStateReceiver监控全局网络状态，提供离线地图下载和网络状态提示等。base64格式转换，对称AES数据加密。Glide框架图片加载缓存，Gson解析json数据，ButterKnife注解View控件，BaiduMap、BaiduLBS、BaiduTTS、BaiduNaviManager做百度地图显示，定位，语音，导航模块。</font>
