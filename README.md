@@ -34,6 +34,7 @@
 - 手机摄像头源码： https://github.com/nihaohebin/FaceDetect_Thinkjoy
 - IP摄像头源码：https://github.com/nihaohebin/IPCamera
 - USB摄像头源码：https://github.com/nihaohebin/usbCamera
+- 人脸识别：https://github.com/danengz/OpenCVDemo
 
 ### 五、OkGo
 #### 将Okhttp封装好的请求框架，包括缓存机制，doGet,doPost，上传下载等功能封装。
