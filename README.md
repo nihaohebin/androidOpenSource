@@ -35,6 +35,7 @@
 - IP摄像头源码：https://github.com/nihaohebin/IPCamera
 - USB摄像头源码：https://github.com/nihaohebin/usbCamera
 - 人脸识别：https://github.com/danengz/OpenCVDemo
+- 训练文档：http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/user_guide/ug_traincascade.html
 
 ### 五、OkGo
 #### 将Okhttp封装好的请求框架，包括缓存机制，doGet,doPost，上传下载等功能封装。
