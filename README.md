@@ -132,6 +132,9 @@
 | [EventBus](https://github.com/greenrobot/EventBus)|观察者模式事件总线|
 | [Search_Layout](https://github.com/Carson-Ho/Search_Layout)|搜索导航栏工具|
 | [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)|沉浸式状态栏和沉浸式导航栏管理|
+| [SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android)|SVGA动画|
+| [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|RecycleView适配器|
+
 
 # 进阶学习的开源完整项目
 ###  1、组件化综合案例，包含微信新闻，头条视频，美女图片，百度音乐，干活集中营，玩Android，豆瓣读书电影，知乎日报等等模块。架构模式：组件化+MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly。融合开发中需要的各种小案例！
