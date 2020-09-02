@@ -83,6 +83,7 @@
 ### 十二、其他常用开发
 |   |   |
 | :------------ | :------------ |
+|**工具类** |
 |  [fastjson](https://github.com/alibaba/fastjson) / [gson](https://github.com/google/gson)  | json 数据解析，可结合AndroidStudio GsonFormat插件快速解析生成bean容器  | 
 | [Butterknife](https://github.com/JakeWharton/butterknife)  |  UI注解，可结合AS Butterknife zelezny插件可快速开发控件注解  |
 |  XmlPullParser/[dom4j](https://dom4j.github.io/) |  xml文件解析，其中dom4j为java常用解析器，XmlPullParser为androidSDK自带常用xml解析器  |
@@ -91,49 +92,48 @@
 | [LeakCanary](https://github.com/square/leakcanary) |检测内存泄漏，优化应用内存性能。|
 | [TaskScheduler](https://github.com/SilenceDut/TaskScheduler) |android线程池管理|
 | [logger](https://github.com/orhanobut/logger) | 日志管理器|
+| [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|列表适配器|
+| [permission](https://github.com/yanzhenjie/AndPermission)|权限管理工具 |
+| [easypermissions](https://github.com/googlesamples/easypermissions)|权限管理工具 |
+| [count-down-timer](https://github.com/dengyuhan/CountDownTimerSupport)|倒计时工具|
+| [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md)|android常用工具类 |
+| [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)|视频弹幕框架 |
+| [HokoBlur](https://github.com/HokoFly/HokoBlur)|高斯模糊工具|
+| [tinker](https://github.com/Tencent/tinker)|腾讯热更新|
+| [MinaManager](https://github.com/jiezongnewstar/MinaManager)|mina简单长连接|
+| [okdownload](https://github.com/lingochamp/okdownload)|离线视频下载引擎|
+| [skin](https://github.com/ximsfei/Android-skin-support)|app换肤框架|
+| [EventBus](https://github.com/greenrobot/EventBus)|观察者模式事件总线|
+| [SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android)|SVGA动画|
+|**UI控件类**|
 | [QMUI_Android](https://github.com/Tencent/QMUI_Android)|腾讯UI控件集合|
 | [XUI](https://github.com/xuexiangjys/XUI)|UI控件集合|
 | [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)|刷新控件|
 | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|上拉刷新，下拉加载|
-| [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|列表适配器|
 | [banner](https://github.com/youth5201314/banner)| 广告页轮播 |
-| [android_zxing](https://github.com/yuzhiqiang1993/zxing)| android二维码扫描工具 |
-| [permission](https://github.com/yanzhenjie/AndPermission)|权限管理工具 |
-| [easypermissions](https://github.com/googlesamples/easypermissions)|权限管理工具 |
+| [android_zxing](https://github.com/yuzhiqiang1993/zxing)| Android二维码扫描工具 |
 | [CircleImageView](https://github.com/hdodenhof/CircleImageView)|圆形图片控件 |
 | [PictureSelect](https://github.com/LuckSiege/PictureSelector)|图片选择器 |
 | [EasyPhoto](https://github.com/HuanTanSheng/EasyPhotos)|图片选择工具 |
 | [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)|大图片浏览器 |
-| [PopWindow](https://github.com/HMY314/PopWindow)|底部弹出选择控件 |
 | [WheelView](https://github.com/Bigkoo/Android-PickerView)|滚轮控件 |
-| [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md)|android常用工具类 |
-| [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)|视频弹幕框架 |
 | [apkupdate](https://github.com/azhon/AppUpdate)|应用内升级工具 |
 | [ProgressView](https://github.com/Moosphan/Material-ProgressView)|进度条 |
 | [Lighter](https://github.com/samlss/Lighter)|新手引导界面工具 |
 | [ProgressView](https://github.com/Moosphan/Material-ProgressView)|进度条工具|
-| [StateView](https://github.com/nukc/StateView)|状态界面工具|
+| [StateView](https://github.com/nukc/StateView)|状态界面工具 加载中 空  错误|
 | [materialratingbar](https://github.com/zhanghai/MaterialRatingBar)|五星好评控件|
-| [count-down-timer](https://github.com/dengyuhan/CountDownTimerSupport)|倒计时工具|
-| [HokoBlur](https://github.com/HokoFly/HokoBlur)|高斯模糊工具|
 | [treeView](https://github.com/Jasongq/TreeRecyclerView)|树形控件|
 | [treeView2](https://github.com/shineM/TreeView)|树形控件2|
 | [xpop](https://github.com/li-xiaojun/XPopup)|弹窗控件|
 | [Linkage-RecyclerView](https://github.com/KunMinX/Linkage-RecyclerView?utm_source=gold_browser_extension)|外卖菜单列表|
 | [CityProject](https://github.com/Tencent/QMUI_Android)|城市选择列表，带定位|
 | [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)|导航栏控件|
-| [tinker](https://github.com/Tencent/tinker)|腾讯热更新|
-| [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)|androidView动画|
-| [vlayout](https://github.com/alibaba/vlayout)|阿里复杂列表控件|
-| [MinaManager](https://github.com/jiezongnewstar/MinaManager)|mina简单长连接|
-| [okdownload](https://github.com/lingochamp/okdownload)|离线视频下载引擎|
-| [skin](https://github.com/ximsfei/Android-skin-support)|app换肤框架|
 | [CalendarView](https://github.com/huanghaibin-dev/CalendarView)|日历工具|
-| [EventBus](https://github.com/greenrobot/EventBus)|观察者模式事件总线|
 | [Search_Layout](https://github.com/Carson-Ho/Search_Layout)|搜索导航栏工具|
 | [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)|沉浸式状态栏和沉浸式导航栏管理|
-| [SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android)|SVGA动画|
-| [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|RecycleView适配器|
+| [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)|androidView动画|
+| [vlayout](https://github.com/alibaba/vlayout)|阿里复杂列表控件|
 
 
 # 进阶学习的开源完整项目
