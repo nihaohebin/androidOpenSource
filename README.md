@@ -105,6 +105,7 @@
 | [skin](https://github.com/ximsfei/Android-skin-support)|app换肤框架|
 | [EventBus](https://github.com/greenrobot/EventBus)|观察者模式事件总线|
 | [SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android)|SVGA动画|
+| [EasyMvp](https://github.com/EspoirX/EasyMvp)|MVP样例|
 |**UI控件类**|
 | [QMUI_Android](https://github.com/Tencent/QMUI_Android)|腾讯UI控件集合|
 | [XUI](https://github.com/xuexiangjys/XUI)|UI控件集合|
