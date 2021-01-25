@@ -135,6 +135,7 @@
 | [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)|沉浸式状态栏和沉浸式导航栏管理|
 | [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)|androidView动画|
 | [vlayout](https://github.com/alibaba/vlayout)|阿里复杂列表控件|
+| [XMarqueeView](https://github.com/xiaohaibin/XMarqueeView)|TextView滚动控件|
 
 
 # 进阶学习的开源完整项目
