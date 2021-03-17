@@ -99,6 +99,7 @@
 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md)|android常用工具类 |
 | [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)|视频弹幕框架 |
 | [HokoBlur](https://github.com/HokoFly/HokoBlur)|高斯模糊工具|
+| [Blur](https://github.com/CameraKit/blurkit-android)|高斯模糊工具2|
 | [tinker](https://github.com/Tencent/tinker)|腾讯热更新|
 | [MinaManager](https://github.com/jiezongnewstar/MinaManager)|mina简单长连接|
 | [okdownload](https://github.com/lingochamp/okdownload)|离线视频下载引擎|
