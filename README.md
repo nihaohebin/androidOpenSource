@@ -108,6 +108,7 @@
 | [SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android)|SVGA动画|
 | [VAP-Android](https://github.com/Tencent/vap)|vap动画|
 | [EasyMvp](https://github.com/EspoirX/EasyMvp)|MVP样例|
+| [ARouter](https://github.com/alibaba/ARouter)|阿里路由|
 |**UI控件类**|
 | [QMUI_Android](https://github.com/Tencent/QMUI_Android)|腾讯UI控件集合|
 | [XUI](https://github.com/xuexiangjys/XUI)|UI控件集合|
